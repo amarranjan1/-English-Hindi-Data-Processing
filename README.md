@@ -4,6 +4,7 @@ Description
 This project contains two assessments based on English Hindi sentence translation using a large language model from Hugging Face.
 
 Assignment 1 Dataset Processing
+
 1 Load the dataset from English_Hindi_Dataset.csv
 2 Compute word counts for both English and Hindi sentences
 3 Keep only sentences where both have 5 to 50 words
